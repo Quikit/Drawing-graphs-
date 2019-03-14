@@ -258,6 +258,6 @@
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.TextBox textBox_bHatch;
         private System.Windows.Forms.Label label7;
-    }
+  
 }
 
